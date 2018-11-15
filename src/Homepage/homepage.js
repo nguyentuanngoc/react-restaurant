@@ -1,9 +1,8 @@
 import React, { Component } from 'react'
-import * as url from '../assets/homepage.jpeg'
 import './homepage.scss';
 import MenuIcon from './menu-icon';
 import Logo from './logo';
-import Book from './book';
+import BookButton from './book-button';
 import MenuBar from './menu-bar';
 
 export default class HomePage extends Component {
@@ -13,8 +12,8 @@ export default class HomePage extends Component {
         <MenuIcon />  
         <MenuBar />
         <Logo />
-        <Book />
-        <img src={url} alt="homepage"></img>
+        <BookButton />
+        <img src="/images/homepage.jpeg" alt="homepage"></img>
       </div>
     )
   }

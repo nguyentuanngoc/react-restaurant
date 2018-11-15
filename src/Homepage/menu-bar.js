@@ -5,11 +5,11 @@ export default class MenuBar extends Component {
   render() {
     return (
       <ul className="menu-list">
-        <li>Home</li>
-        <li>Book</li>
-        <li>Food</li>
-        <li>Wine</li>
-        <li>About</li>
+        <li><button>Home</button></li>
+        <li><button>Food</button></li>
+        <li><button>Wine</button></li>
+        <li><button>Book</button></li>
+        <li><button>About</button></li>
       </ul>
     )
   }

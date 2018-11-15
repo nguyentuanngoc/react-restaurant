@@ -1,0 +1,25 @@
+.wine-gallery {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-content: space-between;
+}
+.wine {
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.wine-image {
+    width: 60vw;
+    height: auto;
+}
+
+.wine-name {
+    font-size: 2rem;
+}
+.wine-price {
+    font-size: 1.5rem;
+}

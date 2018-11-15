@@ -1,0 +1,96 @@
+{
+    "food": [
+        {
+            "name": "Food-1",
+            "price": "100$",
+            "image": "/images/Food/food-1.jpeg"
+        },
+        {
+            "name": "Food-2",
+            "price": "200$",
+            "image": "/images/Food/food-2.jpeg"
+        },
+        {
+            "name": "Food-3",
+            "price": "150$",
+            "image": "/images/Food/food-3.jpeg"
+        },
+        {
+            "name": "Food-4",
+            "price": "250$",
+            "image": "/images/Food/food-4.jpeg"
+        },
+        {
+            "name": "Food-5",
+            "price": "300$",
+            "image": "/images/Food/food-5.jpeg"
+        },
+        {
+            "name": "Food-6",
+            "price": "400$",
+            "image": "/images/Food/food-6.jpeg"
+        },
+        {
+            "name": "Food-7",
+            "price": "350$",
+            "image": "/images/Food/food-7.jpeg"
+        },
+        {
+            "name": "Food-8",
+            "price": "500$",
+            "image": "/images/Food/food-8.jpeg"
+        },
+        {
+            "name": "Food-9",
+            "price": "600$",
+            "image": "/images/Food/food-9.jpeg"
+        },
+        {
+            "name": "Food-10",
+            "price": "700$",
+            "image": "/images/Food/food-10.jpeg"
+        },
+        {
+            "name": "Food-11",
+            "price": "800$",
+            "image": "/images/Food/food-11.jpeg"
+        },
+        {
+            "name": "Food-12",
+            "price": "900$",
+            "image": "/images/Food/food-12.jpeg"
+        }
+    ],
+    "wine": [
+        {
+            "name": "Wine-1",
+            "price": "100$",
+            "image": "/images/Wine/wine-1.jpeg"
+        },
+        {
+            "name": "Wine-2",
+            "price": "200$",
+            "image": "/images/Wine/wine-2.jpeg"
+        },
+        {
+            "name": "Wine-3",
+            "price": "300$",
+            "image": "/images/Wine/wine-3.jpeg"
+        },
+        {
+            "name": "Wine-4",
+            "price": "400$",
+            "image": "/images/Wine/wine-4.jpeg"
+        },
+        {
+            "name": "Wine-5",
+            "price": "500$",
+            "image": "/images/Wine/wine-5.jpeg"
+        },
+        {
+            "name": "Wine-6",
+            "price": "600$",
+            "image": "/images/Wine/wine-6.jpeg"
+        }
+    ]
+}
