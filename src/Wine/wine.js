@@ -5,7 +5,7 @@ import { wine } from '../mock-data.json'
 function WineGallery() {
     const wineList = wine.map((wine) => 
       <li className="wine" key={wine.name}>
-        <img className="wine-image" src={wine.image} alt="Wine"></img>
+        <img className="wine-image" src={process.env.PUBLIC_URL + wine.image} alt="Wine"></img>
         <span className="wine-name">{wine.name}</span>
         <span className="wine-price">{wine.price}</span>
       </li>
