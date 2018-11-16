@@ -9,3 +9,15 @@ ul {
     margin: 0;
     padding: 0;
 }
+
+span {
+    color: white;
+}
+
+body {
+    background-color: rgb(75, 74, 74);
+}
+
+h1 {
+    color: white;
+}

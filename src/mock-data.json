@@ -99,15 +99,15 @@
             "image": "/images/About/cook-1.jpeg"
         },
         {
-            "name": "Nunc rhoncus dictum ligula ornare pellentesque. Sed pretium eros eget aliquet pretium. Pellentesque viverra venenatis leo id aliquam. Praesent maximus quam id iaculis vestibulum. Fusce vulputate pellentesque lectus, vel dictum urna molestie consequat. Vivamus tincidunt tincidunt pretium. Curabitur vehicula nibh quis velit eleifend, id imperdiet leo dignissim. Donec molestie est pretium iaculis maximus. Phasellus sed diam orci. Pellentesque tellus nunc, dictum vitae erat id, consequat accumsan eros.",
+            "description": "Nunc rhoncus dictum ligula ornare pellentesque. Sed pretium eros eget aliquet pretium. Pellentesque viverra venenatis leo id aliquam. Praesent maximus quam id iaculis vestibulum. Fusce vulputate pellentesque lectus, vel dictum urna molestie consequat. Vivamus tincidunt tincidunt pretium. Curabitur vehicula nibh quis velit eleifend, id imperdiet leo dignissim. Donec molestie est pretium iaculis maximus. Phasellus sed diam orci. Pellentesque tellus nunc, dictum vitae erat id, consequat accumsan eros.",
             "image": "/images/About/cook-2.jpeg"
         },
         {
-            "name": "Donec commodo egestas nisi id sagittis. Phasellus ac libero nunc. Aliquam erat volutpat. Curabitur finibus lobortis enim, dignissim mattis ex viverra ac. Ut vel metus diam. Etiam ac diam nunc. Cras pretium maximus dapibus. Ut sit amet pellentesque nunc. Vestibulum ornare hendrerit tellus, ut rutrum eros bibendum at. Morbi et blandit tortor.",
+            "description": "Donec commodo egestas nisi id sagittis. Phasellus ac libero nunc. Aliquam erat volutpat. Curabitur finibus lobortis enim, dignissim mattis ex viverra ac. Ut vel metus diam. Etiam ac diam nunc. Cras pretium maximus dapibus. Ut sit amet pellentesque nunc. Vestibulum ornare hendrerit tellus, ut rutrum eros bibendum at. Morbi et blandit tortor.",
             "image": "/images/About/cook-3.jpeg"
         },
         {
-            "name": "Aenean volutpat egestas magna at malesuada. Suspendisse gravida nec lacus ac euismod. Donec sit amet nisl tristique, molestie dolor id, dictum orci. Donec consectetur, sem et commodo egestas, erat dolor aliquam leo, in dictum purus ligula non lacus. Proin quis sagittis nisl. Pellentesque dignissim lacinia pharetra. Phasellus fringilla mollis nunc, vitae semper nibh porta in. Nullam ac lacus facilisis, molestie arcu dignissim, molestie turpis. Aliquam id felis congue, placerat urna eu, sagittis massa.",
+            "description": "Aenean volutpat egestas magna at malesuada. Suspendisse gravida nec lacus ac euismod. Donec sit amet nisl tristique, molestie dolor id, dictum orci. Donec consectetur, sem et commodo egestas, erat dolor aliquam leo, in dictum purus ligula non lacus. Proin quis sagittis nisl. Pellentesque dignissim lacinia pharetra. Phasellus fringilla mollis nunc, vitae semper nibh porta in. Nullam ac lacus facilisis, molestie arcu dignissim, molestie turpis. Aliquam id felis congue, placerat urna eu, sagittis massa.",
             "image": "/images/About/cook-4.jpeg"
         }
     ]
