@@ -6,8 +6,8 @@ function FoodGallery() {
     const foodList = food.map((food) => 
       <li className="food" key={food.name}>
         <img className="food-image" src={process.env.PUBLIC_URL + food.image} alt="Food"></img>
-        <span>{food.name}</span>
-        <span>{food.price}</span>
+        <span className="food-name">{food.name}</span>
+        <span className="food-price">{food.price}</span>
       </li>
     );
     return <ul className="food-gallery">{foodList}</ul>;
