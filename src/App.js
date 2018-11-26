@@ -3,7 +3,7 @@ import './App.css';
 import HomePage from './Homepage/homepage';
 import Food from './Food/food';
 import Wine from './Wine/wine';
-import Book from './Book/book';
+import Contact from './Contact/contact';
 import About from './About/about';
 
 class App extends Component {
@@ -13,7 +13,7 @@ class App extends Component {
         <HomePage />
         <Food />
         <Wine />
-        <Book />
+        <Contact />
         <About />
       </div>
     );

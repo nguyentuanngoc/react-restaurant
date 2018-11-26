@@ -1,14 +1,11 @@
+
 //Background
 img {
     height: 100vh;
-    width: 100vw;
+    width: 100%;
     object-fit: cover;
 }
 
-.homepage {
-    width: 100vw;
-    overflow: hidden;
-}
 
 /* @media only screen and (min-width: 768px){
     img {
@@ -38,7 +35,7 @@ img {
 */
 
 //Book button
-@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url('https://fonts.googleapis.com/css?family=Sevillana');
 
 .book {
     position: absolute;
@@ -46,7 +43,7 @@ img {
     left: 30%;
     width: 40%;
     height: 8vh;
-    background-color: black;
+    background-color: #825534;
     border: 2px dotted white;
     border-radius: 20px;
     color: white;
@@ -54,7 +51,7 @@ img {
     font-family: 'Lato', sans-serif;
     transition: color 0.5s, background-color 0.5s;
 }
-.book:hover, .book:active {
+.book:hover {
     background-color: white;
     color: black;
 }
@@ -64,24 +61,25 @@ img {
 
 .logo {
     background: transparent;
-    border: white 2px dashed;
+    border: #c7b38f 3px dotted;
     background-color: transparent;
     position: absolute;
-    top: 25%;
+    top: 30%;
     width: 60%;
     left: 20%;
     text-align: center;
 }
 
 .logo-text {
-    font-family: 'Charmonman', cursive;
+    font-style: italic;
+    font-family: 'Sevillana', cursive;
     color: white;
     font-size: 2.5rem;
 }
 
 //Menu icon
 .menu-line {
-    border-top: solid rgb(116, 58, 4) 1vh;
+    border-top: solid #412a12 1vh;
 }
 
 .menu-icon {

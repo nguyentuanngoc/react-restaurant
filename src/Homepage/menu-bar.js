@@ -8,7 +8,7 @@ export default class MenuBar extends Component {
         <li><button>Home</button></li>
         <li><button>Food</button></li>
         <li><button>Wine</button></li>
-        <li><button>Book</button></li>
+        <li><button>Contact</button></li>
         <li><button>About</button></li>
       </ul>
     )
