@@ -1,4 +1,6 @@
 @import './Normalize.css';
+@import url('https://fonts.googleapis.com/css?family=Berkshire+Swash');
+
 
 ul {
     list-style-type: none;
@@ -16,8 +18,9 @@ span {
 }
 
 h1 {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: rgb(247, 247, 247);
+    font-family: 'Berkshire Swash', cursive;
+    color: #412A22;
+    font-size: 3rem;
 }
 
 body {

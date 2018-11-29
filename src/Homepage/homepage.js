@@ -13,7 +13,9 @@ export default class HomePage extends Component {
         <MenuBar />
         <Logo />
         <BookButton />
-        <img src={process.env.PUBLIC_URL + "/images/homepage.jpeg"} alt="homepage"></img>
+        <div className="homepage-image-container">
+          <img className="homepage-image" src={process.env.PUBLIC_URL + "/images/homepage.jpeg"} alt="homepage"></img>
+        </div>
       </div>
     )
   }

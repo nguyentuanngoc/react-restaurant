@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Ewert|Montez');
+
 .wine-gallery {
     width: 100%;
     display: grid;
@@ -18,8 +20,11 @@
 }
 
 .wine-name {
-    font-size: 2rem;
+    font-size: 3rem;
+    font-family: 'Montez', cursive;
 }
 .wine-price {
-    font-size: 1.5rem;
+    font-size: 2rem;
+    font-family: 'Ewert', cursive;
+    color: black;
 }

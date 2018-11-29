@@ -1,8 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Ewert|Montez');
+
 .food-gallery {
     width: 100%;
     display: grid;
     grid-template-columns: 1fr;
-    align-content: space-evenly;
 }
 .food {
     display: flex;
@@ -17,8 +18,51 @@
     height: auto;
 }
 .food-name {
-    font-size: 2rem;
+    font-size: 3rem;
+    font-family: 'Montez', cursive;
 }
 .food-price {
-    font-size: 1.5rem;
+    font-size: 2rem;
+    font-family: 'Ewert', cursive;
+    color: black;
+}
+
+@media only screen and (min-width: 480px) {
+    .food-gallery {
+        grid-template-columns: auto auto;
+        justify-content: space-evenly;
+    }
+    .food {
+        max-width: 200px;
+    }
+    .food-image {
+        width: 100%;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .food {
+        max-width: 300px;
+    }
+}
+
+@media only screen and (min-width: 1024px) {
+    .food {
+        max-width: 400px;
+    }
+}
+
+@media only screen and (min-width: 1440px) {
+    .food-gallery {
+        grid-template-columns: auto auto auto;
+    }
+    .food {
+        max-width: 400px;
+    }
+}
+
+@media only screen and (min-width: 2560px) {
+    .food {
+        max-width: 600px;
+    }
 }
